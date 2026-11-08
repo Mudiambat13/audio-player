@@ -2,6 +2,12 @@
 
 Lecteur musical de bureau construit avec PySide6, pygame et SQLite.
 
+## Captures d'écran
+
+![Jonathan — capture A](<./capture a.png>)
+
+![Jonathan — capture B](<./capture b.png>)
+
 ## Installation
 
 Depuis la racine du projet, crée un environnement virtuel puis installe les
@@ -30,7 +36,8 @@ Depuis la racine du projet, lancez le script PowerShell :
 Le script installe PyInstaller et les dépendances dans `.venv`, puis crée
 `dist\Jonathan\Jonathan.exe`. Envoyez ou copiez **tout le dossier**
 `dist\Jonathan` : l'exécutable dépend des fichiers qui l'accompagnent.
-L'application n'a pas besoin de Python installé sur le PC destinataire.
+L'exécutable possède l'icône de Jonathan et l'application n'a pas besoin de
+Python installé sur le PC destinataire.
 
 Pour une distribution publique, signez l'exécutable avec un certificat de
 signature de code afin de limiter les avertissements Windows SmartScreen.

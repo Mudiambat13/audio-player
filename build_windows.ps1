@@ -18,6 +18,7 @@ if ($LASTEXITCODE -ne 0) {
     --windowed `
     --onedir `
     --name Jonathan `
+    --icon "assets\icons\app.ico" `
     --add-data "assets;assets" `
     main.py
 if ($LASTEXITCODE -ne 0) {

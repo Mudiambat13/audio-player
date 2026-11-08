@@ -2,8 +2,7 @@
  False,
  False,
  True,
- 'C:\\Users\\CTRL '
- 'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-windowed.ico',
+ ['C:\\Users\\CTRL TECH\\Desktop\\audio-player\\assets/icons/app.ico'],
  None,
  False,
  False,
@@ -71,7 +70,7 @@
  [],
  False,
  False,
- 1794144741,
+ 1794145190,
  [('runw.exe',
    'C:\\Users\\CTRL '
    'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
