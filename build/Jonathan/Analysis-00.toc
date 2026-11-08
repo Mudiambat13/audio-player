@@ -1,0 +1,2440 @@
+(['C:\\Users\\CTRL TECH\\Desktop\\audio-player\\main.py'],
+ ['C:\\Users\\CTRL TECH\\Desktop\\audio-player'],
+ [],
+ [('C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\__pyinstaller',
+   0),
+  ('C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks',
+   -1000),
+  ('C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib',
+   -1000)],
+ {},
+ [],
+ [],
+ False,
+ {},
+ 0,
+ [],
+ [('assets\\icons\\.gitkeep',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\assets\\icons\\.gitkeep',
+   'DATA'),
+  ('assets\\icons\\app.svg',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\assets\\icons\\app.svg',
+   'DATA'),
+  ('assets\\icons\\import.svg',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\assets\\icons\\import.svg',
+   'DATA'),
+  ('assets\\icons\\mute.svg',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\assets\\icons\\mute.svg',
+   'DATA'),
+  ('assets\\icons\\next.svg',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\assets\\icons\\next.svg',
+   'DATA'),
+  ('assets\\icons\\pause.svg',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\assets\\icons\\pause.svg',
+   'DATA'),
+  ('assets\\icons\\play.svg',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\assets\\icons\\play.svg',
+   'DATA'),
+  ('assets\\icons\\previous.svg',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\assets\\icons\\previous.svg',
+   'DATA'),
+  ('assets\\icons\\refresh.svg',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\assets\\icons\\refresh.svg',
+   'DATA'),
+  ('assets\\icons\\repeat-one.svg',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\assets\\icons\\repeat-one.svg',
+   'DATA'),
+  ('assets\\icons\\repeat.svg',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\assets\\icons\\repeat.svg',
+   'DATA'),
+  ('assets\\icons\\shuffle.svg',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\assets\\icons\\shuffle.svg',
+   'DATA'),
+  ('assets\\icons\\volume.svg',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\assets\\icons\\volume.svg',
+   'DATA'),
+  ('assets\\images\\.gitkeep',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\assets\\images\\.gitkeep',
+   'DATA')],
+ '3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit '
+ '(AMD64)]',
+ [('pyi_rth_inspect',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pyside6',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pyside6.py',
+   'PYSOURCE'),
+  ('main', 'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\main.py', 'PYSOURCE')],
+ [('_pyi_rth_utils.qt',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\qt.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\csv.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\string.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\copy.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\random.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\struct.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\base64.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\typing.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._functional',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\_functional.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\token.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('_opcode_metadata',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_opcode_metadata.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ast.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('_colorize',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_colorize.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\signal.py',
+   'PYMODULE'),
+  ('app.ui.main_window',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\app\\ui\\main_window.py',
+   'PYMODULE'),
+  ('app.ui',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\app\\ui\\__init__.py',
+   'PYMODULE'),
+  ('app',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\app\\__init__.py',
+   'PYMODULE'),
+  ('app.ui.styles',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\app\\ui\\styles.py',
+   'PYMODULE'),
+  ('app.ui.sidebar',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\app\\ui\\sidebar.py',
+   'PYMODULE'),
+  ('app.ui.player_controls',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\app\\ui\\player_controls.py',
+   'PYMODULE'),
+  ('app.ui.icon_utils',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\app\\ui\\icon_utils.py',
+   'PYMODULE'),
+  ('shiboken6',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\shiboken6\\__init__.py',
+   'PYMODULE'),
+  ('PySide6',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\__init__.py',
+   'PYMODULE'),
+  ('PySide6.support.deprecated',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\support\\deprecated.py',
+   'PYMODULE'),
+  ('PySide6.support',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\support\\__init__.py',
+   'PYMODULE'),
+  ('app.ui.now_playing_view',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\app\\ui\\now_playing_view.py',
+   'PYMODULE'),
+  ('app.ui.music_library',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\app\\ui\\music_library.py',
+   'PYMODULE'),
+  ('app.ui.artists_view',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\app\\ui\\artists_view.py',
+   'PYMODULE'),
+  ('app.ui.albums_view',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\app\\ui\\albums_view.py',
+   'PYMODULE'),
+  ('app.database.database',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\app\\database\\database.py',
+   'PYMODULE'),
+  ('app.database',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\app\\database\\__init__.py',
+   'PYMODULE'),
+  ('app.core.playlist_manager',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\app\\core\\playlist_manager.py',
+   'PYMODULE'),
+  ('app.core',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\app\\core\\__init__.py',
+   'PYMODULE'),
+  ('app.core.metadata',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\app\\core\\metadata.py',
+   'PYMODULE'),
+  ('mutagen.flac',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\flac.py',
+   'PYMODULE'),
+  ('mutagen.id3._util',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\id3\\_util.py',
+   'PYMODULE'),
+  ('mutagen.id3',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\id3\\__init__.py',
+   'PYMODULE'),
+  ('mutagen.id3._tags',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\id3\\_tags.py',
+   'PYMODULE'),
+  ('mutagen.id3._id3v1',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\id3\\_id3v1.py',
+   'PYMODULE'),
+  ('mutagen.id3._frames',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\id3\\_frames.py',
+   'PYMODULE'),
+  ('mutagen._constants',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\_constants.py',
+   'PYMODULE'),
+  ('mutagen.id3._specs',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\id3\\_specs.py',
+   'PYMODULE'),
+  ('mutagen.id3._file',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\id3\\_file.py',
+   'PYMODULE'),
+  ('mutagen._tags',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\_tags.py',
+   'PYMODULE'),
+  ('mutagen._util',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\_util.py',
+   'PYMODULE'),
+  ('mutagen._vorbis',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\_vorbis.py',
+   'PYMODULE'),
+  ('mutagen',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\__init__.py',
+   'PYMODULE'),
+  ('mutagen._file',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\_file.py',
+   'PYMODULE'),
+  ('mutagen.wave',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\wave.py',
+   'PYMODULE'),
+  ('mutagen._iff',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\_iff.py',
+   'PYMODULE'),
+  ('mutagen._riff',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\_riff.py',
+   'PYMODULE'),
+  ('mutagen.dsdiff',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\dsdiff.py',
+   'PYMODULE'),
+  ('mutagen.dsf',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\dsf.py',
+   'PYMODULE'),
+  ('mutagen.tak',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\tak.py',
+   'PYMODULE'),
+  ('mutagen.smf',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\smf.py',
+   'PYMODULE'),
+  ('mutagen.ac3',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\ac3.py',
+   'PYMODULE'),
+  ('mutagen.aac',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\aac.py',
+   'PYMODULE'),
+  ('mutagen.aiff',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\aiff.py',
+   'PYMODULE'),
+  ('mutagen.optimfrog',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\optimfrog.py',
+   'PYMODULE'),
+  ('mutagen.monkeysaudio',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\monkeysaudio.py',
+   'PYMODULE'),
+  ('mutagen.musepack',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\musepack.py',
+   'PYMODULE'),
+  ('mutagen.mp4',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\mp4\\__init__.py',
+   'PYMODULE'),
+  ('mutagen.mp4._as_entry',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\mp4\\_as_entry.py',
+   'PYMODULE'),
+  ('mutagen.mp4._util',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\mp4\\_util.py',
+   'PYMODULE'),
+  ('mutagen.mp4._atom',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\mp4\\_atom.py',
+   'PYMODULE'),
+  ('mutagen.easymp4',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\easymp4.py',
+   'PYMODULE'),
+  ('mutagen.wavpack',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\wavpack.py',
+   'PYMODULE'),
+  ('mutagen.trueaudio',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\trueaudio.py',
+   'PYMODULE'),
+  ('mutagen.oggopus',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\oggopus.py',
+   'PYMODULE'),
+  ('mutagen.ogg',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\ogg.py',
+   'PYMODULE'),
+  ('mutagen.oggvorbis',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\oggvorbis.py',
+   'PYMODULE'),
+  ('mutagen.oggtheora',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\oggtheora.py',
+   'PYMODULE'),
+  ('mutagen.oggspeex',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\oggspeex.py',
+   'PYMODULE'),
+  ('mutagen.oggflac',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\oggflac.py',
+   'PYMODULE'),
+  ('mutagen.mp3',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\mp3\\__init__.py',
+   'PYMODULE'),
+  ('mutagen.mp3._util',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\mp3\\_util.py',
+   'PYMODULE'),
+  ('mutagen.easyid3',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\easyid3.py',
+   'PYMODULE'),
+  ('mutagen.apev2',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\apev2.py',
+   'PYMODULE'),
+  ('mutagen.asf',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\asf\\__init__.py',
+   'PYMODULE'),
+  ('mutagen.asf._attrs',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\asf\\_attrs.py',
+   'PYMODULE'),
+  ('mutagen.asf._objects',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\asf\\_objects.py',
+   'PYMODULE'),
+  ('mutagen.asf._util',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\mutagen\\asf\\_util.py',
+   'PYMODULE'),
+  ('app.core.audio_engine',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\app\\core\\audio_engine.py',
+   'PYMODULE'),
+  ('pygame',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\__init__.py',
+   'PYMODULE'),
+  ('pygame.colordict',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\colordict.py',
+   'PYMODULE'),
+  ('pygame.macosx',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\macosx.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\platform.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('pygame.pkgdata',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\pkgdata.py',
+   'PYMODULE'),
+  ('pygame.fastevent',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\fastevent.py',
+   'PYMODULE'),
+  ('pygame.sndarray',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\sndarray.py',
+   'PYMODULE'),
+  ('pygame.surfarray',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\surfarray.py',
+   'PYMODULE'),
+  ('pygame.sysfont',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\sysfont.py',
+   'PYMODULE'),
+  ('pygame.ftfont',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\ftfont.py',
+   'PYMODULE'),
+  ('pygame.threads',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\threads\\__init__.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\queue.py',
+   'PYMODULE'),
+  ('pygame.sprite',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\sprite.py',
+   'PYMODULE'),
+  ('pygame.cursors',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\cursors.py',
+   'PYMODULE'),
+  ('pygame.version',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\version.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\__init__.py',
+   'PYMODULE'),
+  ('pathlib._local',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_local.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\glob.py',
+   'PYMODULE'),
+  ('pathlib._abc',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py',
+   'PYMODULE'),
+  ('sqlite3',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('sqlite3.dump',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sqlite3\\dump.py',
+   'PYMODULE'),
+  ('sqlite3.__main__',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sqlite3\\__main__.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sqlite3\\dbapi2.py',
+   'PYMODULE')],
+ [('python313.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\python313.dll',
+   'BINARY'),
+  ('PySide6\\opengl32sw.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\opengl32sw.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\tls\\qopensslbackend.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\plugins\\tls\\qopensslbackend.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\tls\\qschannelbackend.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\plugins\\tls\\qschannelbackend.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\tls\\qcertonlybackend.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\plugins\\tls\\qcertonlybackend.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\networkinformation\\qnetworklistmanager.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\plugins\\networkinformation\\qnetworklistmanager.dll',
+   'BINARY'),
+  ('libogg-0.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\libogg-0.dll',
+   'BINARY'),
+  ('libwebp-7.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\libwebp-7.dll',
+   'BINARY'),
+  ('portmidi.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\portmidi.dll',
+   'BINARY'),
+  ('SDL2.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\SDL2.dll',
+   'BINARY'),
+  ('zlib1.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\zlib1.dll',
+   'BINARY'),
+  ('freetype.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\freetype.dll',
+   'BINARY'),
+  ('libjpeg-9.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\libjpeg-9.dll',
+   'BINARY'),
+  ('libopus-0.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\libopus-0.dll',
+   'BINARY'),
+  ('libmodplug-1.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\libmodplug-1.dll',
+   'BINARY'),
+  ('libpng16-16.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\libpng16-16.dll',
+   'BINARY'),
+  ('SDL2_mixer.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\SDL2_mixer.dll',
+   'BINARY'),
+  ('libtiff-5.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\libtiff-5.dll',
+   'BINARY'),
+  ('SDL2_image.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\SDL2_image.dll',
+   'BINARY'),
+  ('libopusfile-0.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\libopusfile-0.dll',
+   'BINARY'),
+  ('SDL2_ttf.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\SDL2_ttf.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\styles\\qmodernwindowsstyle.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\plugins\\styles\\qmodernwindowsstyle.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qicns.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qicns.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\platforms\\qwindows.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\plugins\\platforms\\qwindows.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qtiff.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qtiff.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qtga.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qtga.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qwebp.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qwebp.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\platforminputcontexts\\qtvirtualkeyboardplugin.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\plugins\\platforminputcontexts\\qtvirtualkeyboardplugin.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\iconengines\\qsvgicon.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\plugins\\iconengines\\qsvgicon.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qico.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qico.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\platforms\\qoffscreen.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\plugins\\platforms\\qoffscreen.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qjpeg.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qjpeg.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\platforms\\qminimal.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\plugins\\platforms\\qminimal.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\platforms\\qdirect2d.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\plugins\\platforms\\qdirect2d.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\generic\\qtuiotouchplugin.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\plugins\\generic\\qtuiotouchplugin.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qsvg.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qsvg.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qgif.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qgif.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qwbmp.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qwbmp.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qpdf.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qpdf.dll',
+   'BINARY'),
+  ('_lzma.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('PySide6\\QtSvg.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\QtSvg.pyd',
+   'EXTENSION'),
+  ('shiboken6\\Shiboken.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\shiboken6\\Shiboken.pyd',
+   'EXTENSION'),
+  ('PySide6\\QtNetwork.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\QtNetwork.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_wmi.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_wmi.pyd',
+   'EXTENSION'),
+  ('pygame\\imageext.cp313-win_amd64.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\imageext.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\scrap.cp313-win_amd64.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\scrap.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\mixer.cp313-win_amd64.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\mixer.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\mixer_music.cp313-win_amd64.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\mixer_music.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\font.cp313-win_amd64.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\font.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\_freetype.cp313-win_amd64.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\_freetype.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\transform.cp313-win_amd64.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\transform.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\time.cp313-win_amd64.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\time.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\pixelarray.cp313-win_amd64.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\pixelarray.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\mask.cp313-win_amd64.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\mask.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\surface.cp313-win_amd64.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\surface.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\pixelcopy.cp313-win_amd64.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\pixelcopy.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('pygame\\mouse.cp313-win_amd64.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\mouse.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\key.cp313-win_amd64.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\key.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\joystick.cp313-win_amd64.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\joystick.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\image.cp313-win_amd64.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\image.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\event.cp313-win_amd64.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\event.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\draw.cp313-win_amd64.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\draw.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\display.cp313-win_amd64.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\display.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\math.cp313-win_amd64.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\math.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\bufferproxy.cp313-win_amd64.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\bufferproxy.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\color.cp313-win_amd64.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\color.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\surflock.cp313-win_amd64.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\surflock.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\rwobject.cp313-win_amd64.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\rwobject.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\rect.cp313-win_amd64.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\rect.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\constants.cp313-win_amd64.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\constants.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\base.cp313-win_amd64.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\base.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('PySide6\\QtCore.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\QtCore.pyd',
+   'EXTENSION'),
+  ('PySide6\\QtWidgets.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\QtWidgets.pyd',
+   'EXTENSION'),
+  ('PySide6\\QtGui.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\QtGui.pyd',
+   'EXTENSION'),
+  ('_sqlite3.pyd',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_sqlite3.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('shiboken6\\MSVCP140.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\shiboken6\\MSVCP140.dll',
+   'BINARY'),
+  ('PySide6\\Qt6Network.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\Qt6Network.dll',
+   'BINARY'),
+  ('PySide6\\Qt6Core.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\Qt6Core.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('pygame\\zlib1.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\zlib1.dll',
+   'BINARY'),
+  ('pygame\\SDL2.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\SDL2.dll',
+   'BINARY'),
+  ('pygame\\libjpeg-9.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\libjpeg-9.dll',
+   'BINARY'),
+  ('pygame\\libogg-0.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\libogg-0.dll',
+   'BINARY'),
+  ('pygame\\libopus-0.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\libopus-0.dll',
+   'BINARY'),
+  ('PySide6\\Qt6Widgets.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\Qt6Widgets.dll',
+   'BINARY'),
+  ('PySide6\\Qt6Gui.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\Qt6Gui.dll',
+   'BINARY'),
+  ('PySide6\\Qt6VirtualKeyboard.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\Qt6VirtualKeyboard.dll',
+   'BINARY'),
+  ('PySide6\\Qt6Svg.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\Qt6Svg.dll',
+   'BINARY'),
+  ('PySide6\\Qt6Pdf.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\Qt6Pdf.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('PySide6\\VCRUNTIME140.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('python3.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\python3.dll',
+   'BINARY'),
+  ('shiboken6\\shiboken6.abi3.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\shiboken6\\shiboken6.abi3.dll',
+   'BINARY'),
+  ('PySide6\\VCRUNTIME140_1.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('PySide6\\MSVCP140.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\MSVCP140.dll',
+   'BINARY'),
+  ('PySide6\\pyside6.abi3.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\pyside6.abi3.dll',
+   'BINARY'),
+  ('shiboken6\\VCRUNTIME140_1.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\shiboken6\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('shiboken6\\VCRUNTIME140.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\shiboken6\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('pygame\\libpng16-16.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\libpng16-16.dll',
+   'BINARY'),
+  ('pygame\\SDL2_image.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\SDL2_image.dll',
+   'BINARY'),
+  ('pygame\\SDL2_mixer.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\SDL2_mixer.dll',
+   'BINARY'),
+  ('pygame\\SDL2_ttf.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\SDL2_ttf.dll',
+   'BINARY'),
+  ('pygame\\freetype.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\freetype.dll',
+   'BINARY'),
+  ('PySide6\\MSVCP140_2.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\MSVCP140_2.dll',
+   'BINARY'),
+  ('sqlite3.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\sqlite3.dll',
+   'BINARY'),
+  ('PySide6\\MSVCP140_1.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\MSVCP140_1.dll',
+   'BINARY'),
+  ('PySide6\\Qt6Quick.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\Qt6Quick.dll',
+   'BINARY'),
+  ('PySide6\\Qt6Qml.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\Qt6Qml.dll',
+   'BINARY'),
+  ('PySide6\\Qt6QmlModels.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\Qt6QmlModels.dll',
+   'BINARY'),
+  ('PySide6\\Qt6OpenGL.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\Qt6OpenGL.dll',
+   'BINARY'),
+  ('PySide6\\Qt6QmlMeta.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\Qt6QmlMeta.dll',
+   'BINARY'),
+  ('PySide6\\Qt6QmlWorkerScript.dll',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\Qt6QmlWorkerScript.dll',
+   'BINARY')],
+ [],
+ [],
+ [('assets\\icons\\.gitkeep',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\assets\\icons\\.gitkeep',
+   'DATA'),
+  ('assets\\icons\\app.svg',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\assets\\icons\\app.svg',
+   'DATA'),
+  ('assets\\icons\\import.svg',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\assets\\icons\\import.svg',
+   'DATA'),
+  ('assets\\icons\\mute.svg',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\assets\\icons\\mute.svg',
+   'DATA'),
+  ('assets\\icons\\next.svg',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\assets\\icons\\next.svg',
+   'DATA'),
+  ('assets\\icons\\pause.svg',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\assets\\icons\\pause.svg',
+   'DATA'),
+  ('assets\\icons\\play.svg',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\assets\\icons\\play.svg',
+   'DATA'),
+  ('assets\\icons\\previous.svg',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\assets\\icons\\previous.svg',
+   'DATA'),
+  ('assets\\icons\\refresh.svg',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\assets\\icons\\refresh.svg',
+   'DATA'),
+  ('assets\\icons\\repeat-one.svg',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\assets\\icons\\repeat-one.svg',
+   'DATA'),
+  ('assets\\icons\\repeat.svg',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\assets\\icons\\repeat.svg',
+   'DATA'),
+  ('assets\\icons\\shuffle.svg',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\assets\\icons\\shuffle.svg',
+   'DATA'),
+  ('assets\\icons\\volume.svg',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\assets\\icons\\volume.svg',
+   'DATA'),
+  ('assets\\images\\.gitkeep',
+   'C:\\Users\\CTRL TECH\\Desktop\\audio-player\\assets\\images\\.gitkeep',
+   'DATA'),
+  ('pygame\\freesansbold.ttf',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\freesansbold.ttf',
+   'DATA'),
+  ('pygame\\pygame_icon.bmp',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\pygame\\pygame_icon.bmp',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_gl.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_gl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_es.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_es.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_pt_BR.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_pt_BR.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_en.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_en.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_pl.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_pl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_en.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_en.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_da.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_da.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_de.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_de.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_sv.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_sv.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_he.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_he.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_ar.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_ar.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_gd.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_gd.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_pt_PT.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_pt_PT.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_kk.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_kk.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_ko.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_ko.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_tr.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_tr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_zh_TW.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_zh_TW.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_lt.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_lt.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_pl.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_pl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_ca.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_ca.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_bg.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_bg.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_ko.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_ko.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_de.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_de.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_tr.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_tr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_lv.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_lv.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_tr.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_tr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_sv.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_sv.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_cs.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_cs.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_ka.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_ka.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_it.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_it.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_fi.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_fi.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_fr.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_fr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_ru.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_ru.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_bg.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_bg.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_sk.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_sk.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_ru.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_ru.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_hu.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_hu.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_zh_CN.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_zh_CN.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_ja.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_ja.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_fa.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_fa.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_cs.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_cs.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_sl.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_sl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_zh_TW.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_zh_TW.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_nl.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_nl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_nl.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_nl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_ru.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_ru.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_ja.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_ja.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_gl.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_gl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_nl.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_nl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_nn.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_nn.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_pt_BR.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_pt_BR.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_he.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_he.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_ca.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_ca.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_sk.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_sk.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_uk.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_uk.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_da.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_da.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_zh_CN.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_zh_CN.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_zh_CN.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_zh_CN.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_hu.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_hu.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_ka.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_ka.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_gd.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_gd.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_lg.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_lg.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_it.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_it.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_ka.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_ka.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_hr.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_hr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_pl.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_pl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_fr.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_fr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_sl.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_sl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_kk.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_kk.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_pt_BR.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_pt_BR.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_bg.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_bg.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_zh_TW.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_zh_TW.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_fi.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_fi.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_hu.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_hu.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_lv.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_lv.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_ar.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_ar.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_lg.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_lg.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_nn.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_nn.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_de.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_de.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_fa.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_fa.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_en.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_en.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_kk.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_kk.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_es.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_es.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_sv.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_sv.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_uk.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_uk.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_nn.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_nn.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_hr.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_hr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_fr.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_fr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_uk.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_uk.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_es.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_es.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_ko.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_ko.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_ar.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_ar.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_it.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_it.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_ja.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_ja.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_cs.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_cs.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_da.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_da.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_hr.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_hr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_ca.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_ca.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_sk.qm',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_sk.qm',
+   'DATA'),
+  ('base_library.zip',
+   'C:\\Users\\CTRL '
+   'TECH\\Desktop\\audio-player\\build\\Jonathan\\base_library.zip',
+   'DATA')],
+ [('warnings',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\warnings.py',
+   'PYMODULE'),
+  ('sre_parse',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sre_parse.py',
+   'PYMODULE'),
+  ('keyword',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\keyword.py',
+   'PYMODULE'),
+  ('codecs',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\codecs.py',
+   'PYMODULE'),
+  ('traceback',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\traceback.py',
+   'PYMODULE'),
+  ('ntpath',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ntpath.py',
+   'PYMODULE'),
+  ('stat',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\stat.py',
+   'PYMODULE'),
+  ('heapq',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\heapq.py',
+   'PYMODULE'),
+  ('operator',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\operator.py',
+   'PYMODULE'),
+  ('posixpath',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\posixpath.py',
+   'PYMODULE'),
+  ('_weakrefset',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_weakrefset.py',
+   'PYMODULE'),
+  ('abc',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\abc.py',
+   'PYMODULE'),
+  ('locale',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\locale.py',
+   'PYMODULE'),
+  ('encodings.zlib_codec',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\zlib_codec.py',
+   'PYMODULE'),
+  ('encodings.uu_codec',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\uu_codec.py',
+   'PYMODULE'),
+  ('encodings.utf_8_sig',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\utf_8_sig.py',
+   'PYMODULE'),
+  ('encodings.utf_8',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\utf_8.py',
+   'PYMODULE'),
+  ('encodings.utf_7',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\utf_7.py',
+   'PYMODULE'),
+  ('encodings.utf_32_le',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\utf_32_le.py',
+   'PYMODULE'),
+  ('encodings.utf_32_be',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\utf_32_be.py',
+   'PYMODULE'),
+  ('encodings.utf_32',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\utf_32.py',
+   'PYMODULE'),
+  ('encodings.utf_16_le',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\utf_16_le.py',
+   'PYMODULE'),
+  ('encodings.utf_16_be',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\utf_16_be.py',
+   'PYMODULE'),
+  ('encodings.utf_16',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\utf_16.py',
+   'PYMODULE'),
+  ('encodings.unicode_escape',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\unicode_escape.py',
+   'PYMODULE'),
+  ('encodings.undefined',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\undefined.py',
+   'PYMODULE'),
+  ('encodings.tis_620',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\tis_620.py',
+   'PYMODULE'),
+  ('encodings.shift_jisx0213',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\shift_jisx0213.py',
+   'PYMODULE'),
+  ('encodings.shift_jis_2004',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\shift_jis_2004.py',
+   'PYMODULE'),
+  ('encodings.shift_jis',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\shift_jis.py',
+   'PYMODULE'),
+  ('encodings.rot_13',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\rot_13.py',
+   'PYMODULE'),
+  ('encodings.raw_unicode_escape',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\raw_unicode_escape.py',
+   'PYMODULE'),
+  ('encodings.quopri_codec',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\quopri_codec.py',
+   'PYMODULE'),
+  ('encodings.punycode',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\punycode.py',
+   'PYMODULE'),
+  ('encodings.ptcp154',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\ptcp154.py',
+   'PYMODULE'),
+  ('encodings.palmos',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\palmos.py',
+   'PYMODULE'),
+  ('encodings.oem',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\oem.py',
+   'PYMODULE'),
+  ('encodings.mbcs',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\mbcs.py',
+   'PYMODULE'),
+  ('encodings.mac_turkish',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\mac_turkish.py',
+   'PYMODULE'),
+  ('encodings.mac_romanian',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\mac_romanian.py',
+   'PYMODULE'),
+  ('encodings.mac_roman',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\mac_roman.py',
+   'PYMODULE'),
+  ('encodings.mac_latin2',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\mac_latin2.py',
+   'PYMODULE'),
+  ('encodings.mac_iceland',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\mac_iceland.py',
+   'PYMODULE'),
+  ('encodings.mac_greek',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\mac_greek.py',
+   'PYMODULE'),
+  ('encodings.mac_farsi',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\mac_farsi.py',
+   'PYMODULE'),
+  ('encodings.mac_cyrillic',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\mac_cyrillic.py',
+   'PYMODULE'),
+  ('encodings.mac_croatian',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\mac_croatian.py',
+   'PYMODULE'),
+  ('encodings.mac_arabic',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\mac_arabic.py',
+   'PYMODULE'),
+  ('encodings.latin_1',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\latin_1.py',
+   'PYMODULE'),
+  ('encodings.kz1048',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\kz1048.py',
+   'PYMODULE'),
+  ('encodings.koi8_u',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\koi8_u.py',
+   'PYMODULE'),
+  ('encodings.koi8_t',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\koi8_t.py',
+   'PYMODULE'),
+  ('encodings.koi8_r',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\koi8_r.py',
+   'PYMODULE'),
+  ('encodings.johab',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\johab.py',
+   'PYMODULE'),
+  ('encodings.iso8859_9',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\iso8859_9.py',
+   'PYMODULE'),
+  ('encodings.iso8859_8',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\iso8859_8.py',
+   'PYMODULE'),
+  ('encodings.iso8859_7',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\iso8859_7.py',
+   'PYMODULE'),
+  ('encodings.iso8859_6',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\iso8859_6.py',
+   'PYMODULE'),
+  ('encodings.iso8859_5',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\iso8859_5.py',
+   'PYMODULE'),
+  ('encodings.iso8859_4',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\iso8859_4.py',
+   'PYMODULE'),
+  ('encodings.iso8859_3',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\iso8859_3.py',
+   'PYMODULE'),
+  ('encodings.iso8859_2',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\iso8859_2.py',
+   'PYMODULE'),
+  ('encodings.iso8859_16',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\iso8859_16.py',
+   'PYMODULE'),
+  ('encodings.iso8859_15',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\iso8859_15.py',
+   'PYMODULE'),
+  ('encodings.iso8859_14',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\iso8859_14.py',
+   'PYMODULE'),
+  ('encodings.iso8859_13',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\iso8859_13.py',
+   'PYMODULE'),
+  ('encodings.iso8859_11',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\iso8859_11.py',
+   'PYMODULE'),
+  ('encodings.iso8859_10',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\iso8859_10.py',
+   'PYMODULE'),
+  ('encodings.iso8859_1',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\iso8859_1.py',
+   'PYMODULE'),
+  ('encodings.iso2022_kr',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\iso2022_kr.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_ext',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\iso2022_jp_ext.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_3',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\iso2022_jp_3.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_2004',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\iso2022_jp_2004.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_2',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\iso2022_jp_2.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_1',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\iso2022_jp_1.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\iso2022_jp.py',
+   'PYMODULE'),
+  ('encodings.idna',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\idna.py',
+   'PYMODULE'),
+  ('encodings.hz',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\hz.py',
+   'PYMODULE'),
+  ('encodings.hp_roman8',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\hp_roman8.py',
+   'PYMODULE'),
+  ('encodings.hex_codec',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\hex_codec.py',
+   'PYMODULE'),
+  ('encodings.gbk',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\gbk.py',
+   'PYMODULE'),
+  ('encodings.gb2312',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\gb2312.py',
+   'PYMODULE'),
+  ('encodings.gb18030',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\gb18030.py',
+   'PYMODULE'),
+  ('encodings.euc_kr',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\euc_kr.py',
+   'PYMODULE'),
+  ('encodings.euc_jp',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\euc_jp.py',
+   'PYMODULE'),
+  ('encodings.euc_jisx0213',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\euc_jisx0213.py',
+   'PYMODULE'),
+  ('encodings.euc_jis_2004',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\euc_jis_2004.py',
+   'PYMODULE'),
+  ('encodings.cp950',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp950.py',
+   'PYMODULE'),
+  ('encodings.cp949',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp949.py',
+   'PYMODULE'),
+  ('encodings.cp932',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp932.py',
+   'PYMODULE'),
+  ('encodings.cp875',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp875.py',
+   'PYMODULE'),
+  ('encodings.cp874',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp874.py',
+   'PYMODULE'),
+  ('encodings.cp869',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp869.py',
+   'PYMODULE'),
+  ('encodings.cp866',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp866.py',
+   'PYMODULE'),
+  ('encodings.cp865',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp865.py',
+   'PYMODULE'),
+  ('encodings.cp864',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp864.py',
+   'PYMODULE'),
+  ('encodings.cp863',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp863.py',
+   'PYMODULE'),
+  ('encodings.cp862',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp862.py',
+   'PYMODULE'),
+  ('encodings.cp861',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp861.py',
+   'PYMODULE'),
+  ('encodings.cp860',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp860.py',
+   'PYMODULE'),
+  ('encodings.cp858',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp858.py',
+   'PYMODULE'),
+  ('encodings.cp857',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp857.py',
+   'PYMODULE'),
+  ('encodings.cp856',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp856.py',
+   'PYMODULE'),
+  ('encodings.cp855',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp855.py',
+   'PYMODULE'),
+  ('encodings.cp852',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp852.py',
+   'PYMODULE'),
+  ('encodings.cp850',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp850.py',
+   'PYMODULE'),
+  ('encodings.cp775',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp775.py',
+   'PYMODULE'),
+  ('encodings.cp737',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp737.py',
+   'PYMODULE'),
+  ('encodings.cp720',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp720.py',
+   'PYMODULE'),
+  ('encodings.cp500',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp500.py',
+   'PYMODULE'),
+  ('encodings.cp437',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp437.py',
+   'PYMODULE'),
+  ('encodings.cp424',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp424.py',
+   'PYMODULE'),
+  ('encodings.cp273',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp273.py',
+   'PYMODULE'),
+  ('encodings.cp1258',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp1258.py',
+   'PYMODULE'),
+  ('encodings.cp1257',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp1257.py',
+   'PYMODULE'),
+  ('encodings.cp1256',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp1256.py',
+   'PYMODULE'),
+  ('encodings.cp1255',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp1255.py',
+   'PYMODULE'),
+  ('encodings.cp1254',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp1254.py',
+   'PYMODULE'),
+  ('encodings.cp1253',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp1253.py',
+   'PYMODULE'),
+  ('encodings.cp1252',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp1252.py',
+   'PYMODULE'),
+  ('encodings.cp1251',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp1251.py',
+   'PYMODULE'),
+  ('encodings.cp1250',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp1250.py',
+   'PYMODULE'),
+  ('encodings.cp1140',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp1140.py',
+   'PYMODULE'),
+  ('encodings.cp1125',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp1125.py',
+   'PYMODULE'),
+  ('encodings.cp1026',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp1026.py',
+   'PYMODULE'),
+  ('encodings.cp1006',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp1006.py',
+   'PYMODULE'),
+  ('encodings.cp037',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\cp037.py',
+   'PYMODULE'),
+  ('encodings.charmap',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\charmap.py',
+   'PYMODULE'),
+  ('encodings.bz2_codec',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\bz2_codec.py',
+   'PYMODULE'),
+  ('encodings.big5hkscs',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\big5hkscs.py',
+   'PYMODULE'),
+  ('encodings.big5',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\big5.py',
+   'PYMODULE'),
+  ('encodings.base64_codec',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\base64_codec.py',
+   'PYMODULE'),
+  ('encodings.ascii',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\ascii.py',
+   'PYMODULE'),
+  ('encodings.aliases',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\aliases.py',
+   'PYMODULE'),
+  ('encodings',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\__init__.py',
+   'PYMODULE'),
+  ('reprlib',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\reprlib.py',
+   'PYMODULE'),
+  ('sre_compile',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sre_compile.py',
+   'PYMODULE'),
+  ('functools',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\functools.py',
+   'PYMODULE'),
+  ('sre_constants',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sre_constants.py',
+   'PYMODULE'),
+  ('os',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\os.py',
+   'PYMODULE'),
+  ('copyreg',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\copyreg.py',
+   'PYMODULE'),
+  ('genericpath',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\genericpath.py',
+   'PYMODULE'),
+  ('types',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\types.py',
+   'PYMODULE'),
+  ('weakref',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\weakref.py',
+   'PYMODULE'),
+  ('linecache',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\linecache.py',
+   'PYMODULE'),
+  ('collections',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\collections\\__init__.py',
+   'PYMODULE'),
+  ('_collections_abc',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_collections_abc.py',
+   'PYMODULE'),
+  ('re._parser',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\_parser.py',
+   'PYMODULE'),
+  ('re._constants',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\_constants.py',
+   'PYMODULE'),
+  ('re._compiler',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\_compiler.py',
+   'PYMODULE'),
+  ('re._casefix',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\_casefix.py',
+   'PYMODULE'),
+  ('re',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\__init__.py',
+   'PYMODULE'),
+  ('enum',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\enum.py',
+   'PYMODULE'),
+  ('io',
+   'C:\\Users\\CTRL '
+   'TECH\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\io.py',
+   'PYMODULE')])
